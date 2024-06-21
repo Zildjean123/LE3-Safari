@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\SafariLE2\SafariBlogDB\bin\Debug\SafariBlogDB.dacpac
+C:\Users\Acer\source\repos\SafariLE2\SafariBlogDB\bin\Debug\SafariBlogDB.dll
+C:\Users\Acer\source\repos\SafariLE2\SafariBlogDB\bin\Debug\SafariBlogDB.pdb
+C:\Users\Acer\source\repos\SafariLE2\SafariBlogDB\obj\Debug\SafariBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\SafariLE2\SafariBlogDB\obj\Debug\SafariBlogDB.dll
+C:\Users\Acer\source\repos\SafariLE2\SafariBlogDB\obj\Debug\SafariBlogDB.pdb
+C:\Users\Acer\source\repos\SafariLE2\SafariBlogDB\obj\Debug\Model.xml
+C:\Users\Acer\source\repos\SafariLE2\SafariBlogDB\obj\Debug\refactor.xml
+C:\Users\Acer\source\repos\SafariLE2\SafariBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Acer\source\repos\SafariLE2\SafariBlogDB\obj\Debug\predeploy.sql
